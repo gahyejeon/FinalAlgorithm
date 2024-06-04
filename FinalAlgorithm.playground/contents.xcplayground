@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='algorithm 1'/>
+        <page name='algorithm 2'/>
+        <page name='algorithm 3'/>
+        <page name='algorithm 4'/>
+        <page name='algorithm 5'/>
+        <page name='algorithm 6'/>
+        <page name='algorithm 7'/>
+        <page name='algorithm 8'/>
+        <page name='algorithm 9'/>
+        <page name='algorithm 10'/>
+        <page name='algorithm 11'/>
+        <page name='algorithm 12'/>
+        <page name='algorithm 13'/>
+        <page name='algorithm 14'/>
+        <page name='algorithm 15'/>
+        <page name='algorithm 16'/>
+        <page name='algorithm 17'/>
+        <page name='algorithm 18'/>
+        <page name='algorithm 19'/>
+        <page name='algorithm 20'/>
+        <page name='algorithm 21'/>
+        <page name='algorithm 22'/>
+        <page name='algorithm 23'/>
+        <page name='algorithm 24'/>
+        <page name='algorithm 25'/>
+        <page name='algorithm 26'/>
+    </pages>
+</playground>
